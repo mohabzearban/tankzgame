@@ -1,0 +1,22 @@
+canvas
+{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#loader
+{
+	position : fixed;
+	display: block;
+	left: 550px ;
+	top : 250px ;
+}
+
+body 
+{
+	overflow-y :hidden;
+	overflow-x :hidden;
+}

@@ -1,0 +1,52 @@
+{"frames": {
+
+"Enemy.png":
+{
+	"frame": {"x":2,"y":591,"w":34,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":71},
+	"sourceSize": {"w":34,"h":71}
+},
+"EnemyBullet.png":
+{
+	"frame": {"x":2,"y":683,"w":16,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":15},
+	"sourceSize": {"w":16,"h":15}
+},
+"Player.png":
+{
+	"frame": {"x":2,"y":504,"w":39,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":85},
+	"sourceSize": {"w":39,"h":85}
+},
+"PlayerBullet.png":
+{
+	"frame": {"x":2,"y":664,"w":19,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":17},
+	"sourceSize": {"w":19,"h":17}
+},
+"TankBackGround.png":
+{
+	"frame": {"x":2,"y":2,"w":500,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":500},
+	"sourceSize": {"w":500,"h":500}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "MainTextures.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3769fdbaff5e2595e29ca83dabcd4a3d$"
+}
+}
